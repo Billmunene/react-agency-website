@@ -8,7 +8,7 @@ $ npm install or $ yarn install
 # Start local server
 $ npm start
 
-# It will open template in your browser(http://localhost:3000)
+# demo(https://react-agency-website.vercel.app/)
 
 # Edite template in your favorite code editor
 
