@@ -2,6 +2,10 @@
  a agency landing page created with react and typescipt
  
  
+ 
+ 
+ 
+ 
  install app's dependencies
 $ npm install or $ yarn install
 
@@ -26,6 +30,7 @@ All images are located inside src/assets/img.
 All svg icons are located inside src/assets/svg.
 After build,all files required for hosting can be found inside /public folder
 Credits
+
 React library used React
 Khula Google Font - Khula
 Styled components is used as css preprocessor - Styled components
